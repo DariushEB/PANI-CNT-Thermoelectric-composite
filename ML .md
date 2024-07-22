@@ -1,6 +1,6 @@
 #we used this code for ANN part in MATLAB:
 #we separated the file based on 3 outputs (Seebeck, Electrical conductivity, Thermal conductivity)
-#each output is considered as Y and other input values are considered as X. Then X and Y are converted to transpose matrix and this code is applied. 
+#each output is considered as Y and other input values are considered as X. Then X and Y are converted to transpose matrixes and this code is applied. 
 
 
 for i =1:1:10
